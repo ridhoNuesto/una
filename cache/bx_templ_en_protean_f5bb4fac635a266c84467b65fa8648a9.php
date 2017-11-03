@@ -1,1 +1,0 @@
-<div class="bx-std-pcap-help bx-def-padding bx-def-color-bg-block"><?php echo $a['content'];?></div>
