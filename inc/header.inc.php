@@ -9,8 +9,8 @@ define('BX_DIRECTORY_PATH_ROOT', 'D:/xampp/htdocs/una/'); ///< site path
 define('BX_DATABASE_HOST', 'localhost'); ///< db host
 define('BX_DATABASE_SOCK', ''); ///< db socket
 define('BX_DATABASE_PORT', ''); ///< db port
-define('BX_DATABASE_USER', 'root'); ///< db user
-define('BX_DATABASE_PASS', ''); ///< db password
+define('BX_DATABASE_USER', 'developer'); ///< db user
+define('BX_DATABASE_PASS', 'password'); ///< db password
 define('BX_DATABASE_NAME', 'nuesto_una'); ///< db name
 
 define('BX_SYSTEM_JAVA', ''); ///< path to java binary
